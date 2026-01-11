@@ -1,4 +1,4 @@
-## Round 1 repo : https://github.com/NeogenInnovators/Off-grid-Tracker/edit/main/README.md 
+## Round 1 repo : https://github.com/NeogenInnovators/Off-grid-Tracker
 
 ## Round 2 Demo Video 📁: https://drive.google.com/file/d/1f1_tJELBBs-CuIoNS1I9qu9m3IDeIrPI/view?usp=drivesdk
 # 1. GPS Location Tracking Module 
